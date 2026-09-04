@@ -1,21 +1,204 @@
 MIT License
 
-Copyright (c) 2026 TurkBlocks
+Copyright (c) 2026 TürkBlocks
+
+==================================================
+TÜRKÇE
+======
+
+MIT Lisansı
+
+Telif Hakkı (c) 2026 TürkBlocks
+
+İşbu yazılımın ve ilgili dokümantasyon dosyalarının ("Yazılım") bir kopyasını
+edinen herhangi bir kişiye, aşağıdaki koşullara tabi olmak üzere, Yazılımı
+herhangi bir kısıtlama olmaksızın kullanma, kopyalama, değiştirme, birleştirme,
+yayımlama, dağıtma, alt lisans verme ve/veya Yazılımın kopyalarını satma hakkı
+ücretsiz olarak verilmektedir.
+
+Bu izin, Yazılımın sağlandığı kişilerin de aynı haklara sahip olmasına izin
+verir.
+
+Aşağıdaki koşullar geçerlidir:
+
+1. TELİF HAKKI BİLDİRİMİ
+
+Yazılımın tüm kopyalarında veya önemli bölümlerinde, yukarıdaki telif hakkı
+bildirimi ve bu izin bildirimi korunmalı ve dahil edilmelidir.
+
+2. DEĞİŞTİRME
+
+Yazılımı değiştirebilir, geliştirebilir, yeniden düzenleyebilir veya başka
+projelerle birleştirebilirsiniz.
+
+Yaptığınız değişiklikler için ayrı bir telif hakkı bildirimi ekleyebilirsiniz.
+Ancak orijinal TürkBlocks telif hakkı bildirimi ve MIT Lisansı metni
+korunmalıdır.
+
+3. DAĞITIM
+
+Yazılımın orijinal veya değiştirilmiş sürümlerini ücretsiz veya ücretli olarak
+dağıtabilirsiniz.
+
+Yazılımı kendi projenizin bir parçası olarak dağıtmanız da mümkündür.
+
+Dağıtılan kopyalarda bu lisansın ve telif hakkı bildiriminin bulunması gerekir.
+
+4. TİCARİ KULLANIM
+
+Yazılım ticari amaçlarla kullanılabilir.
+
+Yazılımı içeren bir ürün veya hizmet satılabilir ve Yazılım ücretli bir
+projenin parçası olarak kullanılabilir.
+
+5. ALT LİSANSLAMA
+
+Yazılımın tamamı veya bir bölümü, farklı bir lisans kapsamında dağıtılan daha
+büyük bir projenin parçası olabilir. Ancak bu durum, orijinal MIT Lisansı
+kapsamındaki hakları ve telif hakkı bildirimini ortadan kaldırmaz.
+
+6. MARKA VE LOGO
+
+Bu lisans, "TürkBlocks" adı, TürkBlocks logoları, markaları, görsel kimliği
+ve diğer marka unsurları üzerinde otomatik olarak herhangi bir marka hakkı
+vermez.
+
+TürkBlocks adına veya logosuna ilişkin haklar, ilgili marka sahibine aittir.
+
+MIT Lisansı yalnızca lisanslanan Yazılımın telif hakkıyla ilgili hakları
+kapsar.
+
+7. GARANTİ
+
+YAZILIM "OLDUĞU GİBİ" ("AS IS") SUNULMAKTADIR.
+
+YASALARIN İZİN VERDİĞİ AZAMİ ÖLÇÜDE, TÜRKBLOCKS VE TELİF HAKKI SAHİPLERİ;
+YAZILIMIN TİCARİ OLARAK UYGUNLUĞU, BELİRLİ BİR AMACA UYGUNLUĞU, İHLAL
+ETMEMESİ VEYA BAŞKA HERHANGİ BİR GARANTİ KONUSUNDA AÇIK YA DA ZIMNİ
+HERHANGİ BİR GARANTİ VERMEZ.
+
+8. SORUMLULUK
+
+YASALARIN İZİN VERDİĞİ AZAMİ ÖLÇÜDE, TÜRKBLOCKS VE TELİF HAKKI SAHİPLERİ;
+YAZILIMIN KULLANIMINDAN, KULLANILAMAMASINDAN VEYA YAZILIMLA İLGİLİ
+HERHANGİ BİR İŞLEMDEN KAYNAKLANAN DOĞRUDAN, DOLAYLI, ARIZİ, ÖZEL,
+ÖRNEK TEŞKİL EDEN VEYA SONUÇSAL ZARARLARDAN SORUMLU TUTULAMAZ.
+
+9. KABUL
+
+Yazılımı kullanmanız, kopyalamanız, değiştirmeniz veya dağıtmanız, bu
+lisansın koşullarını kabul ettiğiniz anlamına gelir.
+
+==================================================
+ENGLISH
+=======
+
+MIT License
+
+Copyright (c) 2026 TürkBlocks
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+furnished to do so, subject to the following conditions.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. COPYRIGHT NOTICE
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+2. MODIFICATION
+
+You may modify, improve, adapt, rearrange, or combine the Software with other
+projects.
+
+You may add your own copyright notice for modifications you make. However,
+the original TürkBlocks copyright notice and this MIT License must remain
+included.
+
+3. DISTRIBUTION
+
+You may distribute original or modified versions of the Software, either
+free of charge or for a fee.
+
+You may also include the Software as part of your own project or product,
+provided that the copyright notice and this license are retained.
+
+4. COMMERCIAL USE
+
+The Software may be used for commercial purposes.
+
+You may sell products or services that include the Software, or use the
+Software as part of a paid or commercial project.
+
+5. SUBLICENSING
+
+The Software, in whole or in part, may be included in a larger project that
+is distributed under different licensing terms.
+
+However, such distribution does not remove the rights granted by this MIT
+License for the original Software, and the original copyright notice and
+license must remain preserved where applicable.
+
+6. TRADEMARKS AND BRANDING
+
+This license does not grant any trademark rights to the name "TürkBlocks",
+TürkBlocks logos, trademarks, visual identity, or other branding elements.
+
+Rights relating to the TürkBlocks name and branding remain with their
+respective owner.
+
+The MIT License applies only to the copyrightable Software covered by this
+license.
+
+7. WARRANTY
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, TÜRKBLOCKS AND THE
+COPYRIGHT HOLDERS SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING
+FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+DEALINGS IN THE SOFTWARE.
+
+8. LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, TÜRKBLOCKS AND THE
+COPYRIGHT HOLDERS SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES, INCLUDING BUT NOT LIMITED TO
+LOSS OF DATA, LOSS OF PROFITS, LOSS OF BUSINESS, OR OTHER COMMERCIAL OR
+TECHNICAL DAMAGES ARISING FROM THE USE OF OR INABILITY TO USE THE SOFTWARE.
+
+9. ACCEPTANCE
+
+By using, copying, modifying, publishing, distributing, or otherwise dealing
+with the Software, you acknowledge that you have read and accepted the terms
+of this license.
+
+==================================================
+IMPORTANT NOTICE
+================
+
+This document is intended to accompany software released by TürkBlocks under
+the MIT License.
+
+The Turkish section is provided as a translation for convenience. In the
+event of any conflict or inconsistency between the Turkish and English
+versions, the original English MIT License text shall prevail to the extent
+permitted by applicable law.
+
+For third-party libraries, assets, fonts, images, sounds, code, or other
+components included with the Software, their respective licenses and
+copyright notices remain applicable. This license does not override or
+replace third-party licensing terms.
+
+Copyright (c) 2026 TürkBlocks
+
+
+
+
+**TürkBlocks**
